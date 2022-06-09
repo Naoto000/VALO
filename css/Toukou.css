@@ -1,0 +1,23 @@
+.textarea {
+    width: 99%;             /* 幅（横） */
+    height: 100px;           /* 幅（高さ） */
+    border: 1px solid;      /* 枠線の太さ */
+}
+
+.text1 {
+    width: 50%;             /* 幅（横） */
+    height: 20px;           /* 幅（高さ） */
+    border: 1px solid;      /* 枠線の太さ */
+}
+
+.text2 {
+    width: 20%;             /* 幅（横） */
+    height: 20px;           /* 幅（高さ） */
+    border: 1px solid;      /* 枠線の太さ */
+}
+
+.a {
+    width: 7%;             /* 幅（横） */
+    height: 22px;           /* 幅（高さ） */
+    border: 1px solid;      /* 枠線の太さ */
+}

@@ -1,0 +1,21 @@
+/* 検索ボックス */
+.searchbox {
+    width: 80%;             /* 幅（横） */
+    height: 40px;           /* 幅（高さ） */
+    border: 2px solid;      /* 枠線の太さ */
+}
+
+.button {
+    width: 5%;
+    height: 40px;
+    border: 2px solid;
+}
+
+.frame_result {
+    margin: 2em auto;
+    padding: 1em;
+    width: 85.8%;
+    height : 50px;
+    background-color: white; /* 背景色 */
+    border: 1px solid black; /* 枠線 */
+}
